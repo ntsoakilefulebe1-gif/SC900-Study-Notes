@@ -1,0 +1,63 @@
+1. Describe Security Concepts (10-15%)
+
+✅ Zero Trust
+
+✅ Defense in Depth
+
+✅ CIA Triad
+
+✅ Authentication
+
+✅ Authorization
+
+✅ Multifactor Authentication (MFA)
+
+✅ Security principles and models
+
+2. Describe Identity and Access Capabilities of Microsoft Entra (25-30%)
+
+✅ Microsoft Entra ID
+
+✅ Single Sign-On (SSO)
+
+✅ Multi-Factor Authentication (MFA)
+
+✅ Conditional Access
+
+✅ Role-Based Access Control (RBAC)
+
+✅ Identity Governance
+
+✅ Passwordless Authentication
+
+3. Describe Security Solutions of Microsoft (35-40%)
+
+✅ Microsoft Defender XDR
+
+✅ Microsoft Defender for Endpoint
+
+✅ Microsoft Defender for Office 365
+
+✅ Microsoft Defender for Identity
+
+✅ Microsoft Defender for Cloud Apps
+
+✅ Microsoft Sentinel (high-level understanding)
+
+This is the largest section of the exam and should get the most study time.
+
+4. Describe Compliance Capabilities of Microsoft (20-25%)
+
+✅ Microsoft Purview
+
+✅ Data Loss Prevention (DLP)
+
+✅ Information Protection
+
+✅ Insider Risk Management
+
+✅ eDiscovery
+
+✅ Compliance Manager
+
+✅ Data Lifecycle Management
